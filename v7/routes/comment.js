@@ -1,7 +1,7 @@
 var express         = require("express"),
     router          = express.Router(),
-    campGround      = require("./models/campground"), //camGround schema
-    Comment         = require("./models/comment"), //comment schema
+    campGround      = require("../models/campground"), //camGround schema
+    Comment         = require("../models/comment"), //comment schema
     User            = require("../models/user"); //user Schema
 
 router.get("/new", isLoggedIn, function(req,res){ //middleware will check if user logged in or not
