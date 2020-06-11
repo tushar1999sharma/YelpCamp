@@ -66,6 +66,6 @@ Some comments in the source code are course notes and therefore might not seem n
 * [Mongoose](http://mongoosejs.com/)
 * [Passport](http://www.passportjs.org/)
 * [Passport-local](https://github.com/jaredhanson/passport-local#passport-local)
-* [Express-session](https://github.com/expressjs/session#express-session)
+* [Express-Session](https://github.com/expressjs/session#express-session)
 * [Method-override](https://github.com/expressjs/method-override#method-override)
 * [Connect-flash](https://github.com/jaredhanson/connect-flash#connect-flash)
