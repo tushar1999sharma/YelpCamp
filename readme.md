@@ -62,10 +62,10 @@ Some comments in the source code are course notes and therefore might not seem n
 
 ### Back-end
 
-* [express](https://expressjs.com/)
-* [mongoose](http://mongoosejs.com/)
-* [passport](http://www.passportjs.org/)
-* [passport-local](https://github.com/jaredhanson/passport-local#passport-local)
-* [express-session](https://github.com/expressjs/session#express-session)
-* [method-override](https://github.com/expressjs/method-override#method-override)
-* [connect-flash](https://github.com/jaredhanson/connect-flash#connect-flash)
+* [Express](https://expressjs.com/)
+* [Mongoose](http://mongoosejs.com/)
+* [Passport](http://www.passportjs.org/)
+* [Passport-local](https://github.com/jaredhanson/passport-local#passport-local)
+* [Express-session](https://github.com/expressjs/session#express-session)
+* [Method-override](https://github.com/expressjs/method-override#method-override)
+* [Connect-flash](https://github.com/jaredhanson/connect-flash#connect-flash)
