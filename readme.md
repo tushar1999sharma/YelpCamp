@@ -57,7 +57,7 @@ Some comments in the source code are course notes and therefore might not seem n
 
 ### Front-end
 
-* [ejs](http://ejs.co/)
+* [EJS](http://ejs.co/)
 * [Bootstrap](https://getbootstrap.com/docs/3.3/)
 
 ### Back-end
